@@ -1,0 +1,42 @@
+.container {
+  width: 50%;
+  height: 80%;
+  border: 3px solid rgb(199, 196, 196);
+  border-radius: 10px;
+  margin: 10% 25%;
+  background-color: skyblue;
+}
+
+.main-heading {
+  text-align: center;
+  background-color: rgb(23, 23, 22);
+  color: aqua;
+}
+
+.para {
+  margin-left: 10%;
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.radio-class {
+  margin-left: 11%;
+}
+
+.span-class {
+  font-size: 20px;
+  font-weight: 550;
+}
+
+.submit-btn{
+    width: 80%;
+    margin: 5% 10%;
+    height: 35px;
+    background-color: rgba(218, 17, 17, 0.909);
+}
+
+.score{
+  margin-left: 90%;
+  color: blue;
+  text-transform: capitalize;
+}
